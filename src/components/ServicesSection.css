@@ -1,0 +1,31 @@
+.services-section {
+    text-align: center;
+    padding: 20px;
+  }
+  .paragraph{
+    font-size: small;
+  }
+
+  .heading-space{
+   padding: 2px;
+   line-height: .3;
+   margin-top: 20px;
+  }
+
+  .services-grid {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 90px;
+    gap: 100px;
+  }
+  
+  .service {
+    margin: 0 30px;
+    font-size: 15px;
+    line-height: 1.3;
+    margin-bottom: 190px;
+  }
+  
+
+  
