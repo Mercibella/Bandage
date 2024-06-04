@@ -1,8 +1,8 @@
-/* src/components/HeroSection.css */
 .hero-section {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 80px;
   }
   
   .image1, .image2, .image3, .image4 {
